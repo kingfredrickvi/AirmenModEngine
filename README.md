@@ -129,3 +129,4 @@ All DLLs in every plugin's "dlls" is loaded first, then plugins are loaded and s
 
 * OnPlugin___ functions producing errors when called
 * Linq functions appear to have issues (maybe?)
+* OnShipCreate and OnShipDestroy are not implemented
